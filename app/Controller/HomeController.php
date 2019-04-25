@@ -1,0 +1,1 @@
+<?phpclass HomeController{    public function getIndex()    {        echo "index";    }    public function getAbout()    {        echo " about";    }    public function getLoin()    {        echo " login";    }}
